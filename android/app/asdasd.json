@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "330319011459",
+    "project_id": "rylee-53a91",
+    "storage_bucket": "rylee-53a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330319011459:android:a598ab86e9a9120be605b6",
+        "android_client_info": {
+          "package_name": "com.rylee_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330319011459-kr5em7ths9s1lbdpl0p3spgqntlqlpec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rylee_partner",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "330319011459-9bjt183c7cje305gdcaogmm42b8b0dgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykyt8lFTNVmGOHaYjngE7PbNBkuLwdA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330319011459-9bjt183c7cje305gdcaogmm42b8b0dgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330319011459-rjguitrba19v05lgkic26t9gr21754q3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Rylee-partner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

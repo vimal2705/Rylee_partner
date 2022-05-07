@@ -1,0 +1,61 @@
+{
+  "name": "Rylee_partner",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.17",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-firebase/app": "^14.2.4",
+    "@react-native-firebase/auth": "^14.2.4",
+    "@react-native-firebase/database": "^14.2.4",
+    "@react-native-firebase/firestore": "^14.2.4",
+    "@react-native-firebase/storage": "^14.2.4",
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@react-navigation/stack": "^6.0.11",
+    "native-base": "^2.15.2",
+    "react": "17.0.2",
+    "react-native": "0.67.1",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-image-crop-picker": "^0.37.3",
+    "react-native-image-picker": "^4.7.1",
+    "react-native-maps": "^0.30.0",
+    "react-native-paper": "^4.11.2",
+    "react-native-paper-dates": "^0.8.6",
+    "react-native-reanimated": "^2.2.4",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-scratcher": "^1.0.0",
+    "react-native-screens": "^3.10.2",
+    "react-native-svg": "^12.1.1",
+    "react-native-textinput-effects": "^0.6.2",
+    "react-native-vector-icons": "^9.0.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "shortid": "^2.2.16",
+    "sync-storage": "^0.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.12",
+    "@babel/runtime": "7.16.7",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.66.2",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
